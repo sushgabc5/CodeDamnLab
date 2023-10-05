@@ -1,0 +1,5 @@
+error: pathspec 'main' did not match any file(s) known to git
+Test #0 failed! Are you sure your folder is a git repo with "main" branch present?
+Test #1 passed!
+From https://github.com/sushgabc5/CodeDamnLab.git
+Test #2 failed! Could not read from remote repository. Make sure you have pushed your code to remote and it is a real repository
